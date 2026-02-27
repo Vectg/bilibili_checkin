@@ -1,5 +1,5 @@
 name: Bilibili Daily Checkin
-
+# 重新提交以便激活actions
 on:
   schedule:
     - cron: '0 3 * * *'  # UTC时间每天3点执行(对应CST时间 11:00)
